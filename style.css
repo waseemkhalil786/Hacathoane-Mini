@@ -150,12 +150,15 @@ p{
     color: #e9e8e8;
 }
 .image{
+    
     position: relative;
     top: -430px;
     font-weight: 800;
-    width: 250px;
-    height: 250px;
-    margin-left: -400px;
+    width: 1024px;
+    height: 300px;
+    border: 3px salmon;
+    
+    
 }
 .heading{
     font-weight: 900;
@@ -176,10 +179,14 @@ p{
      
 }
 .justify>h1{
-    width: 350px;
-    font-size: large;
-    word-spacing: -px;
+    width: 510px;
+    height: 136px;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder;
+    word-spacing: -2px;
+    
+
 
 }
 .settelment{
