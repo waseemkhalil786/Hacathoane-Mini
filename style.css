@@ -56,8 +56,8 @@
     text-decoration: underline;
 }
 .section{
-    height: 300px;
-    background-color: #080707;
+    height: 350px;
+    background-color: #000000;
     color: aliceblue;   
 }
 .flex-container{
@@ -79,26 +79,25 @@ button>a:hover{
 
 .linked1{
     position: relative;
-    width: 550px;
-    height: 125px;
+    width: 654px;
+    height: 155px;
     font-family: "Poppins", sans-serif;
     text-align: justify;
     margin-left: 20px;
     right: 40px;
+    font-size: xx-large;
+    
     /* font-size: 40px !important;
     line-height: 44px !important;
     font-weight: 800 !important; */   
 }
 .linked2{
-    position: relative;
-    width: 460px;
-    height: 30px;
-    margin-top: -40px;
+    width: 650px;
+    height: 25px;
+}
+.first{
     text-align: justify;
-    color: #383232;
-    font-weight: 100;
-    word-spacing: -2px;
-    margin-left: -150px;
+    margin-left: -25px;
 }
 .button-resize{
     padding: 10px 15px;
@@ -109,15 +108,14 @@ button>a:hover{
     font-size: larger; 
     cursor: pointer; 
     border-radius: 4px;
-    left: -185px;    
-}
-.button-resize:hover{
-    box-shadow: #e9e8e8;
-}
-button{
+    left: -230px;
     position: relative;
     right: 60px;
 }
+.button-resize:hover{
+    box-shadow: #d3c1c1;
+}
+
 .linked4{
     width: auto;
 }
@@ -127,8 +125,8 @@ button{
     text-decoration: none;
     color: rgb(255, 255, 255);
     font-weight: 10;
-    left: -185px;
-    
+    left: -230px;
+    top: 20;
 }
 /* header complete */
 .box1{
